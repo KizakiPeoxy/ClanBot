@@ -1,12 +1,12 @@
 const { ActivityType } = require('discord.js');
 
 module.exports = {
-  ownerId: '1004206704994566164',
+  ownerId: '1375482838626861169',
   status: {
     rotateDefault: [
       { name: 'Netflix', type: ActivityType.Watching },
       { name: 'GTA VI', type: ActivityType.Playing },
-      { name: 'on YouTube', type: ActivityType.Streaming, url: 'https://www.twitch.tv/glaceytt' },
+      { name: 'on YouTube', type: ActivityType.Streaming, url: 'https://www.twitch.tv' },
       { name: 'Spotify', type: ActivityType.Listening },
     ],
     songStatus: true
